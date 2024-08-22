@@ -18,7 +18,7 @@
 ## Github Statistics
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keval-Gandevia&langs_count=8&theme=gruvbox" alt="Top Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keval-Gandevia&langs_count=8&theme=gruvbox" alt="Top Used Languages" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=Keval-Gandevia&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </div>
 
