@@ -1,6 +1,4 @@
-## Hello there, I am Keval Gandevia
-
-# Projects
+# Key Projects
 
 ## MockMentor ([Repository Link](https://github.com/Keval-Gandevia/MockMentor))
 MockMentor is a web application designed to help users prepare for interviews by allowing them to create custom questions, record video responses, and receive AI-driven feedback. It uses the ChatGPT API to analyze answers and Amazon Rekognition to evaluate user behavior and confidence during recordings.
