@@ -1,8 +1,5 @@
 # Key Projects
 
-## MockMentor ([Repository Link](https://github.com/Keval-Gandevia/MockMentor))
-MockMentor is a web application designed to help users prepare for interviews by allowing them to create custom questions, record video responses, and receive AI-driven feedback. It uses the ChatGPT API to analyze answers and Amazon Rekognition to evaluate user behavior and confidence during recordings.
-
 ## TiffinBox ([Repository Link](https://github.com/Keval-Gandevia/TiffinBox))
 TiffinBox is a platform that simplifies food ordering and delivery for customers and providers. It includes an admin role for managing users and aims to enhance the food experience with real-time tracking, reward points, and intuitive dashboards. The goal is to make the entire process smooth and efficient for all users.
 
