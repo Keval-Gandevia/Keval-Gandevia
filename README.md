@@ -17,7 +17,7 @@ PlacementPortal simplifies university placement management by automating student
 
 ## 📧: Find me on
 
-<code><a href="mailto:keval.gandevia@dal.ca"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a></code>
+<code><a href="mailto:kevalgandevia16@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a></code>
 <code><a href="https://www.linkedin.com/in/keval-gandevia/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a></code>
 
 <hr/>
